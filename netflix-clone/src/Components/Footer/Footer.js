@@ -36,14 +36,24 @@ const Footer = () => {
     <li>Corporate Information</li>
   </ul>
 </div>
+<div>
+  <ul>
+    <li>  Media Center</li>
+    <li>Privacy</li>
+    <li>Contact Us</li>
+  </ul>
+</div>
+
+
     </div>
+    <div className="service_code"><p>Service Code</p></div>
+    <div className="copy-write">&copy;1997-2004 Netflix,Inc</div>
+ </div>
   </div>
 
- </div>
 
 
 
-//     <
    
   )
 }

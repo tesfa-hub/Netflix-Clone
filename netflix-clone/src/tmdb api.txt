@@ -1,2 +1,2 @@
 5c896359c64d756d10940c8aff262c75
-https://api.themoviedb.org/3/movie/157336?api_key=5c896359c64d756d10940c8aff262c75
+https://api.themoviedb.org/3  /movie/157336?api_key=5c896359c64d756d10940c8aff262c75
