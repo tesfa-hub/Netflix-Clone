@@ -9,7 +9,7 @@ import "./header.css"
 
 const Header = () => {
   return (
-    <div className="header_outercontainer">
+    <div className="header_outer_container">
      <div className="header_container">
     <div className="header_left"> 
        <ul>
