@@ -16,7 +16,7 @@ useEffect(() => {
     try {
       console.log(fetchUrl);
       const request = await axios.get(`${fetchUrl}`);
-      console.log(request);
+      // console.log(request);
       setMovies(request.data.results);
 
     } catch (error) {
